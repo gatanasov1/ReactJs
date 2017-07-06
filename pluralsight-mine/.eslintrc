@@ -6,8 +6,7 @@
     "plugin:import/warnings"
   ],
   "plugins": [
-    "react",
-    "class-property"
+    "react"
   ],
   "parserOptions": {
     "ecmaVersion": 6,
